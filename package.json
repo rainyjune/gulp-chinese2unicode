@@ -1,0 +1,30 @@
+{
+  "name": "gulp-chinese2unicode",
+  "version": "1.0.0",
+  "description": "Convert all Chinese characters into their Unicode sequences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainyjune/gulp-chinese2unicode.git"
+  },
+  "keywords": [
+    "gulp-plugin",
+    "chinese",
+    "unicode",
+    "converter"
+  ],
+  "author": "Kang Chen <rainyjune@live.cn> (https://rainyjune.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainyjune/gulp-chinese2unicode/issues"
+  },
+  "homepage": "https://github.com/rainyjune/gulp-chinese2unicode#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-util": "^3.0.8",
+    "through2": "^4.0.2"
+  }
+}
